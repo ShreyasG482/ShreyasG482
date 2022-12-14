@@ -10,7 +10,7 @@
   </a>
   
  
-  <a href='https://www.linkedin.com/in/shreyas-gosavi-31b161215/'' target="_blank">
+  <a href='https://www.linkedin.com/in/shreyas-gosavi-31b161215/' target="_blank">
       <img src='https://img.shields.io/badge/-Shreyas_Gosavi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyas-gosavi-31b161215/'>
   </a>
 
