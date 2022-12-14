@@ -5,12 +5,12 @@
 <h3 align="center">Passionate about exploring data and analysing it!!</h3>
 
 <p align='center'>
-  <a href='mailto:sharathpai107@gmail.com' target="_blank">
+  <a href='mailto:sgosavi4u@gmail.com' target="_blank">
       <img src='https://img.shields.io/badge/-sgosavi4u@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sgosavi4u@gmail.com'>
   </a>
   
  
-  <a href='https://www.linkedin.com/in/sharathpai107/' target="_blank">
+  <a href='https://www.linkedin.com/in/shreyas-gosavi-31b161215/'' target="_blank">
       <img src='https://img.shields.io/badge/-Shreyas_Gosavi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyas-gosavi-31b161215/'>
   </a>
 
@@ -63,5 +63,5 @@ Looking forward to contribute towards Open Source Projects. You can talk to me a
     Github Stats &nbsp; <img src = "https://raw.githubusercontent.com/ShreyasG482/readme-icon-generator/main/github-cat.gif" width = 32px>
 </h2>
 
-| ![Sharath's Github Stats](https://github-readme-stats.vercel.app/api?username=ShreyasG482&show_icons=true&theme=radical) | ![Sharath's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShreyasG482&theme=radical) |
+| ![Shreyas's Github Stats](https://github-readme-stats.vercel.app/api?username=ShreyasG482&show_icons=true&theme=radical) | ![Sharath's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShreyasG482&theme=radical) |
 |---|---|
