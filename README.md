@@ -63,5 +63,5 @@ Looking forward to contribute towards Open Source Projects. You can talk to me a
     Github Stats &nbsp; <img src = "https://raw.githubusercontent.com/ShreyasG482/readme-icon-generator/main/github-cat.gif" width = 32px>
 </h2>
 
-| ![Shreyas's Github Stats](https://github-readme-stats.vercel.app/api?username=ShreyasG482&show_icons=true&theme=radical) | ![Sharath's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShreyasG482&theme=radical) |
+| ![Shreyas's Github Stats](https://github-readme-stats.vercel.app/api?username=ShreyasG482&show_icons=true&theme=radical) | ![Shreyas's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShreyasG482&theme=radical) |
 |---|---|
